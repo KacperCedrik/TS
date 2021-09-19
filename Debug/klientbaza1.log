@@ -1,0 +1,10 @@
+﻿  client.cpp
+C:\Users\Asus\source\repos\klientbaza1\client.cpp(291,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\klientbaza1\client.cpp(318,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\klientbaza1\client.cpp(334,17): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Asus\source\repos\klientbaza1\client.cpp(351,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\klientbaza1\client.cpp(364,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\klientbaza1\client.cpp(368,30): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\klientbaza1\client.cpp(382,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\klientbaza1\client.cpp(386,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  klientbaza1.vcxproj -> C:\Users\Asus\source\repos\klientbaza1\Debug\klientbaza1.exe

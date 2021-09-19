@@ -1,0 +1,2 @@
+C:\Users\Asus\source\repos\klientbaza1\Debug\klientbaza1.exe
+C:\Users\Asus\source\repos\klientbaza1\Debug\klientbaza1.pdb
